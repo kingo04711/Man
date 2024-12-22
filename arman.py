@@ -1,4 +1,4 @@
-7831614064:AAHfRsn63Lladwtik3IJdDQGYOl2XDXeT7gimport os
+import os
 import telebot
 import json
 import requests
